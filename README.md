@@ -1,26 +1,21 @@
-This is a college website named imperial college more description down below :-
+## 🎓 Imperial College Website 🌐
 
-This project is a static college website designed to showcase all essential information about our institution — including to explore our campus , departments and courses. The site provides a modern, user-friendly interface.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-🧠 Features
-🏫 Home Page: Overview of the college with hero section and highlights.
-📚 Departments: Detailed information about each department and faculty.
-📞 Contact Page: Easy access to location, email, and inquiry form.
-🎨 Modern UI: Clean layout with gradient backgrounds and interactive elements
+A simple college website created as a team project to display academic and campus information.
 
-⚙️ Technologies Used
-HTML5 – Structure and content
-CSS3 – Styling and animations
-JavaScript – Interactivity and functionality
+### ✨ Features
+- 🏠 Home, Departments, Contact
+- 🎨 Modern UI
+- 📱 Responsive Design
 
-👨‍💻 Team Members
-[ Mahesh ]
-[ Divyanjali ]
-[ Asutosh ]
-[ Prakruti ]
-[ Hitesh ]
+### 🛠️ Built With
+HTML • CSS • JavaScript
 
-💡 Future Improvements
-Add student login and result portal
-Integrate database for dynamic content
-Add dark/light theme toggle
+### 👨‍💻 Team Members
+Mahesh | Divyanjali | Asutosh | Prakruti | Hitesh
+
+### 🚀 Coming Soon
+🔐 Login System • 🗄️ Database • 🌙 Dark Mode
